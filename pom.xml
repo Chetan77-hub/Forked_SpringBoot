@@ -14,7 +14,7 @@
 
         <version>2.3.0.RELEASE</version>
 
-    </parent>
+         </parent>
 
     <!-- Additional lines to be added here... -->
     <dependencies>
