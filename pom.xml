@@ -31,7 +31,7 @@
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
     <version>10.0.0</version>
-</dependency>
+  </dependency>
 
     </dependencies>
     <build>
